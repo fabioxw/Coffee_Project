@@ -1,0 +1,13 @@
+body{
+	  
+	 background:  linear-gradient(to top , white , aqua  , lightblue ); ;
+     background-repeat: no-repeat;
+	background-position: 0 0;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+#form1{
+ height:200px;
+ width:50%;
+}

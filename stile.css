@@ -1,0 +1,56 @@
+	h5 {
+    text-shadow: 2px 2px 2px blue;
+}
+
+            body {
+                margin: 0;
+                padding: 0;
+				background: linear-gradient(to top , #d2691e , aqua  , lightblue );
+                
+               
+            }
+            
+            a {
+                text-decoration: none;
+            }
+            
+            #container {
+                background: #fff;
+                padding: 65px;
+                margin: 50px auto;
+                width: 600px;
+            }
+            
+            #top {
+                position: relative;
+            }
+            
+            #logo {
+                width: 300px;
+                margin: 0 0 30px;
+                position: relative;
+                left: 50%;
+                transform: translate(-50%);
+            }
+            
+            marquee {
+                margin-bottom: 30px;
+            }
+             
+            img {
+                max-width: 100%;
+            }
+            
+            .slider {
+                margin-bottom: 30px;
+            }
+            
+            .clear {
+                clear: both;
+            }
+            
+          #form1{
+ 				height:200px;
+ 				width:50%;
+				}
+          
